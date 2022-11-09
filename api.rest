@@ -1,13 +1,11 @@
-GET https://hololive.hololivepro.com/en/talents
-
-###
-GET http://localhost:5000/v1/api/list
-
-###
 GET http://localhost:5000/v1/api/talents
 
 ###
-GET http://localhost:5000/v1/api/stream
+GET http://localhost:5000/v1/api/talents/kaela-kovalskia
 
 ###
-GET http://localhost:5000/v1/api/talents/kaela-kovalskia
+GET http://localhost:5000/v1/api/list/council
+
+
+###
+GET http://localhost:5000/v1/api/stream
